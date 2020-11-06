@@ -1,1 +1,1 @@
-# colour-detection-in-python
+# color-detection-in-python
